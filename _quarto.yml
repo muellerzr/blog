@@ -2,6 +2,7 @@ project:
   type: website
 
 website:
+  google-analytics: "UA-161578393-1"
   title: "blog"
   navbar:
     right:
