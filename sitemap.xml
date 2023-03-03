@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://muellerzr.github.io/blog/about.html</loc>
-    <lastmod>2023-01-03T16:01:44.724Z</lastmod>
+    <loc>https://github.com/muellerzr/blog/gradient_accumulation.html</loc>
+    <lastmod>2023-03-03T17:57:40.498Z</lastmod>
   </url>
   <url>
-    <loc>https://muellerzr.github.io/blog/index.html</loc>
-    <lastmod>2023-01-03T16:01:48.154Z</lastmod>
+    <loc>https://github.com/muellerzr/blog/happiness.html</loc>
+    <lastmod>2023-03-03T17:57:41.866Z</lastmod>
   </url>
   <url>
-    <loc>https://muellerzr.github.io/blog/dear-me-2022.html</loc>
-    <lastmod>2023-01-03T16:01:51.644Z</lastmod>
+    <loc>https://github.com/muellerzr/blog/dear-me-2022.html</loc>
+    <lastmod>2023-03-03T17:57:43.174Z</lastmod>
   </url>
   <url>
-    <loc>https://muellerzr.github.io/blog/happiness.html</loc>
-    <lastmod>2023-01-03T16:01:55.354Z</lastmod>
+    <loc>https://github.com/muellerzr/blog/index.html</loc>
+    <lastmod>2023-03-03T17:57:44.542Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/muellerzr/blog/about.html</loc>
+    <lastmod>2023-03-03T17:57:45.814Z</lastmod>
   </url>
 </urlset>
